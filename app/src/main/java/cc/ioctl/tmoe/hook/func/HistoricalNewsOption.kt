@@ -178,7 +178,7 @@ object HistoricalNewsOption : CommonDynamicHook() {
 
         val isThreadChat = getMethodAndInvoke("isThreadChat", chatActivity, false)!! as Boolean
 
-        if (isThreadChat || isChatNoForwards || AntiAntiCopy.isNoForw) {
+        if (isThreadChat || isChatNoForwards || AntiAntiForward.isNoForw) {
             Toast.makeText(
                 AndroidAppHelper.currentApplication().applicationContext,
                 LocaleController.getString("UnsupportedOperation", R.string.UnsupportedOperation),

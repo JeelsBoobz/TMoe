@@ -5,6 +5,7 @@
 
     <string name="TMoeSettings">TMoe 設定</string>
     <string name="EnableDebugMode">啟用除錯模式</string>
+    <string name="EnablePremiumUser">啟用使用者溢價</string>
     <string name="AntiAntiForward">反反轉發</string>
     <string name="ProhibitChannelSwitching">禁止頻道滑動切換</string>
     <string name="ProhibitEnableReactions">禁止啟用反應</string>
@@ -20,8 +21,7 @@
     <string name="ProhibitSpoilers">禁用劇透</string>
     <string name="ProhibitSpoilersD">劇透內容將默認顯示</string>
     <string name="SendCommand">詢問是否送出 Bot 指令</string>
-    <string name="AntiAntiCopy">反反複製</string>
-    <string name="AntiAntiCopyD">與反反轉發衝突</string>
+    <string name="AntiSecretMedia">反秘密媒體</string>
     <string name="ChatUiSettings">聊天頁面設定</string>
     <string name="BasicFunction">基礎功能</string>
     <string name="AboutTMoe">關於 TMoe</string>

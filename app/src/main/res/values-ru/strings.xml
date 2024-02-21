@@ -9,9 +9,8 @@
     <string name="AddReloadMsgBtnDesc">Добавить кнопку перезагрузки сообщения в меню чата</string>
     <string name="AddSubItemChannel">Добавить доп. канал</string>
     <string name="AddSubItemChannelD">Добавить доп. канал</string>
-    <string name="AntiAntiCopy">Откл. запрета на копирование сообщения(-ий)</string>
-    <string name="AntiAntiCopyD">Конфликтует с откл. пересылки сообщения(-ий)</string>
     <string name="AntiAntiForward">Откл. запрета на пересылку сообщения(-ий)</string>
+    <string name="AntiSecretMedia">Отключить секретное медиасообщение(-ий)</string>
     <string name="BasicFunction">Основные настройки</string>
     <string name="BuildVarsLogsEnabled">LOGS_ENABLED (BuildVars.java)</string>
     <string name="BuildVarsLogsEnabledDesc">Смотрите LOGS_ENABLED в BuildVars.java (мгновенный, непостоянный)</string>
@@ -36,6 +35,7 @@
     <string name="DumpGroupMember">Постоянный хэш доступа</string>
     <string name="DumpGroupMemberDesc">Сохраните хэши доступа известных каналов и пользователей в ctx.filesDir/TMoe_channel_dump.db, чтобы при необходимости вы могли получить к ним доступ с помощью идентификатора.</string>
     <string name="EnableDebugMode">Включить режим отладки</string>
+    <string name="EnablePremiumUser">Включить пользовательский премиум</string>
     <string name="ExtendedOfflineSearch">Расширенный автономный поиск</string>
     <string name="ExtendedOfflineSearchDesc">Разрешить поиск пользователей, групп и каналов по идентификатору в TMoe_channel_dump.db, для чего требуется включить "Постоянный хэш доступа".</string>
     <string name="ForceBlurChatAvailable">Принудительное размытие чата(-ов)</string>

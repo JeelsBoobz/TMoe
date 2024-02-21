@@ -19,7 +19,10 @@ class SettingsFragment : BaseHierarchyFragment() {
                 EnableDebugMode.INSTANCE, "EnableDebugMode", R.string.EnableDebugMode
             )
             functionSwitch(
-                AntiAntiForward, "AntiAntiForward", R.string.AntiAntiForward,
+                EnablePremiumUser, "EnablePremiumUser", R.string.EnablePremiumUser
+            )
+            functionSwitch(
+                AntiSecretMedia, "AntiSecretMedia", R.string.AntiSecretMedia,
                 "RestrictContentMitigationDesc", R.string.RestrictContentMitigationDesc
             )
             functionSwitch(
@@ -51,10 +54,7 @@ class SettingsFragment : BaseHierarchyFragment() {
             )
 
             functionSwitch(
-                AntiAntiCopy, "AntiAntiCopy", R.string.AntiAntiCopy,
-                descProvider = {
-                    LocaleController.getString("AntiAntiCopyD", R.string.AntiAntiCopyD)
-                }
+                AntiAntiForward, "AntiAntiForward", R.string.AntiAntiForward
             )
             functionSwitch(
                 ProhibitSpoilers, "ProhibitSpoilers", R.string.ProhibitSpoilers,

@@ -5,7 +5,8 @@
 
     <string name="TMoeSettings">Ajustes de TMoe</string>
     <string name="EnableDebugMode">Habilitar modo de depuración</string>
-    <string name="AntiAntiForward">Anti-Anti-Forward message</string>
+    <string name="EnablePremiumUser">Habilitar Usuario Premium</string>
+    <string name="AntiSecretMedia">Anti-SecretMedia message</string>
     <string name="ProhibitChannelSwitching">Prohibir el cambio de canal</string>
     <string name="ProhibitEnableReactions">Prohibir las reacciones</string>
     <string name="ProhibitChatGreetings">Prohibir los saludos de chat</string>
@@ -19,8 +20,7 @@
     <string name="AddInfoContainerD">AddInfoContainer</string>
     <string name="ProhibitSpoilers">Prohibir los spoilers</string>
     <string name="SendCommand">Preguntar por comando de toque</string>
-    <string name="AntiAntiCopy">Anti-Anti-Copiar mensaje</string>
-    <string name="AntiAntiCopyD">Conflicto con el Anti-Anti-Reenviar</string>
+    <string name="AntiAntiForward">Anti-Anti-Forward mensaje</string>
     <string name="ChatUiSettings">Ajustes de chat</string>
     <string name="BasicFunction">Básico</string>
     <string name="AboutTMoe">Acerca de TMoe</string>
