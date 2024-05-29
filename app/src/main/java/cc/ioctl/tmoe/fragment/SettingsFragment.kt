@@ -128,6 +128,10 @@ class SettingsFragment : BaseHierarchyFragment() {
             functionSwitch(
                 HideServiceStories, "HideServiceStories", R.string.HideServiceStories
             )
+            functionSwitch(
+                ShowIdInProfile, "ShowIdInProfile", R.string.ShowIdInProfile,
+                "ShowIdInProfileDesc", R.string.ShowIdInProfileDesc
+            )
         }
         category("LostMsgMitigation", R.string.LostMsgMitigation) {
             functionSwitch(
